@@ -1,4 +1,3 @@
 # Software-Architecture
 
-## Links for Good Software Design 
- -What is an API Gateway?
+*[What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)*.
