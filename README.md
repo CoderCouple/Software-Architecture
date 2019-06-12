@@ -7,6 +7,10 @@
 5. *[API Gateway | Microservices Design Pattern | Swiggy Architecture (Imaginary)](https://www.youtube.com/watch?v=Wa_q8C6Qo68)*.
 6. *[Deployment Strategies in Kubernetes](https://www.youtube.com/watch?v=4AUnI58ZI6M)*.
 
+================================================= API =========================
+1. API Vessioning
+  * https://www.xmatters.com/integrations-blog/blog-four-rest-api-versioning-strategies/
+  * https://stackoverflow.com/questions/389169/best-practices-for-api-versioning
 
 
 
