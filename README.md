@@ -11,7 +11,9 @@
 1. API Vessioning
   * https://www.xmatters.com/integrations-blog/blog-four-rest-api-versioning-strategies/
   * https://stackoverflow.com/questions/389169/best-practices-for-api-versioning
-
+  
+2. API Pagination
+  * https://slack.engineering/evolving-api-pagination-at-slack-1c1f644f8e12
 
 
 
